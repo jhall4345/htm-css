@@ -1,0 +1,174 @@
+/* Jonathan Hall */
+
+input#mobile_menu {
+    opacity: 0;
+}
+
+body {
+    margin: 0%;
+}
+
+.top-head {
+    background: url(images/background_ocean.jpg) no-repeat center center fixed;
+    background-size: cover;
+    width: 100%;
+}
+
+.header-pic {
+    width: 80%;
+    margin-left: 9%;
+    margin-left: 9%;
+    margin-top: 2.5%;
+    margin-bottom: 1%;
+    border: .3rem seashell solid;
+}
+
+.navi {
+    font-family: 'Rubik', sans-serif;
+}
+
+.feature {
+    width: 40%;
+    border: .3rem seashell solid;
+    margin-top: 4%;
+    margin-bottom: 7%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+hr {
+    margin: 3% 0;
+    border-top: 2px solid lightblue;
+}
+
+.bottom-half {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-content: center;
+}
+
+.bottom-half p {
+    line-height: 140%;
+}
+
+aside {
+    margin-top: 3%;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color:orangered;
+}
+
+.subtitle {
+    color: #ff8800;
+    font-size: 1.2rem;
+}
+
+aside img {
+    width: 100%;
+    padding-bottom: 2%;
+}
+
+aside h3 {
+    color: midnightblue;
+    text-align: center;
+    margin-bottom: 13%;
+    padding-bottom: 1.5%;
+    border-bottom: 1.5px dotted lightblue;
+}
+
+aside h2 {
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 2%;
+    color: midnightblue;
+}
+
+.foot {
+    margin: 0% 10%;
+}
+
+footer {
+    background-color: midnightblue;
+    padding-bottom: 1%;
+    margin-top: 3%;
+}
+
+footer p {
+    margin: 1% 0%;
+    font-size: .8rem;
+    color: seashell;
+}
+
+footer ul a {
+    text-decoration: none;
+    color: lightblue;
+    font-family: 'Rubik', sans-serif;
+}
+
+footer ul {
+    margin-top: 4%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+footer li {
+    display: inline;
+    padding: 3%;
+}
+
+footer hr {
+    margin-bottom: 2.5%;
+    margin-top: 0%;
+}
+.social {
+    width: 4%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    padding-right: 1.5%;
+}
+
+.container p {
+    margin: 0%;
+}
+
+section > img {
+    max-width: 75%;
+}
+
+.title {
+    text-align: center;
+    font-size: 3.8em;
+    margin-bottom: 0;
+}
+
+.item1 {
+    text-align: center;
+    padding: 5%;
+}
+
+.item2 {
+    text-align: center;
+    padding: 5%;
+}
+
+.item3 {
+    text-align: center;
+    padding: 5%;
+}
+
+.item4 {
+    text-align: center;
+    padding: 5%;
+}
+
+.more-info {
+    text-decoration: none;
+    color: seashell;
+    background-color: #ff8800;
+    padding: 2% 5%;
+    border-radius: .5em;
+    font-family: 'Rubik', sans-serif;
+    font-variant: small-caps;
+    font-size: 1.3rem;
+}

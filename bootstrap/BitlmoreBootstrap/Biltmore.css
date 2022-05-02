@@ -1,0 +1,45 @@
+/* Jonathan Hall */
+
+*{
+    margin:0;
+    padding:0;
+    border:0
+}
+
+.nav-link {
+    font-family: 'Roboto', sans-serif;
+}
+
+.main h1 {
+    font-size:5em;
+    font-family: 'Fanwood Text', serif;
+    padding-top: 5%;
+}
+
+.main h4 {
+    font-size:2em;
+    font-family: 'Fanwood Text', serif;
+}
+
+
+body {
+    background-color: #303030;
+}
+
+.half {
+    background-color: white;
+    padding-top: 5%;
+}
+
+
+.bg-yellow-dark {background-color: #C79F00;}
+
+.bg-yellow-light {background-color: #e3bd77;}
+
+.bg-grey {background-color: #303030;}
+
+.text-yellow-dark {color: #ac8c08;}
+
+.text-yellow-light {color: #e3bd77;}
+
+.text-white {color:white;}
