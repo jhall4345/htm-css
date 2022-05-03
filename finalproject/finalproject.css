@@ -1,0 +1,172 @@
+/* Jonathan Hall */
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .banner {
+    width: 70%;
+    padding-top: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+  .hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("images/boats2.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-bottom: 3px solid #2E2E2E;
+  }
+
+  .hero-text {
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    color: white;
+  }
+
+  .hero-text h1 {
+    padding-top: 7%;
+    padding-bottom: 25%;
+    color: antiquewhite;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 4em;
+    padding-right: 2%;
+    padding-left: 2%;
+  }
+
+  header {
+    background-color: #2E2E2E;
+    padding-bottom: .75%;
+  }
+
+  button {
+    width: 13em;
+    margin-top: 1%;
+    padding: .5%;
+    background-color: antiquewhite;
+    align-content: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  button:hover {
+    background-color: #82AEFB;
+  }
+  .bg-grey {background-color: #2E2E2E;}
+
+  .bg-blue {background-color: steelblue;}
+
+  nav a {
+    color: antiquewhite;
+    font-variant: small-caps;
+    font-family:'Roboto', sans-serif;
+  }
+
+  nav a:hover {
+    color: #82AEFB;
+  }
+
+  .main {
+    width: 65%;
+    margin-bottom: 3%;
+  }
+
+  main img {
+    margin-top: 4%;
+    margin-bottom: 3%;
+  }
+
+  .water {
+    color: steelblue;
+    text-align: center;
+    margin-top: 9%;
+  }
+
+  .slogan {
+    text-align: left;
+    margin: 2%;
+    margin-top: 0;
+    padding-top: 3%;
+  }
+
+  footer {
+    background-color: #2E2E2E;
+    color: antiquewhite;
+    text-align: center;
+    padding-bottom: 1%;
+  }
+
+  footer h3 {
+    font-variant: small-caps;
+    padding-top: 1.25%;
+  }
+
+  hr {
+    width: 90%;
+    background-color: steelblue;
+    height: 1.2px;
+    margin-bottom: .75%;
+    margin-top: 1.5%;
+  }
+
+  .about {
+    width: 80%;
+    margin: 1.25% 10%;
+    border: 1.75px solid #2E2E2E;
+  }
+
+  .title {
+    color: steelblue;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 3.5em;
+  }
+
+  .main hr {
+    margin-top: 0%;
+    margin-bottom: 2%;
+  }
+
+  .main h4 {
+    margin-top: 3.3%;
+    margin-bottom: .3%;
+  }
+
+  .job {
+    font-weight: bold;
+    font-variant: small-caps;
+  }
+
+  .commissioners {
+    margin-top: 5%;
+  }
+
+  .main ul {
+    list-style-type: none;
+  }
+
+  .rows {
+    padding-bottom: 1.5%;
+  }
+  
+  .scheduletitle {
+    font-variant: small-caps;
+    padding-top: 5%;
+    text-decoration: underline;
+    text-align: center;
+  }
+
+  .scheduleinfo {
+    margin-top: 4%;
+  }
+
+  .safety {
+    text-align: center;
+  }
